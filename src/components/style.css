@@ -1,0 +1,20 @@
+.stories {
+    border-radius: 50%;
+    border: 1px solid #be1e1e;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    background-image: url("https://tinypng.com/images/social/website.jpg");
+    background-size: contain;
+}
+.cont {
+    display: flex;
+    flex-wrap: wrap;
+}
+img {
+    width: 320px;
+    height: 200px;
+}
+li {
+    list-style: none;
+}
